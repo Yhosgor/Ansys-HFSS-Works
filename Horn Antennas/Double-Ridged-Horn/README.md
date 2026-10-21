@@ -12,3 +12,6 @@ Wideband double-ridged horn antenna designed and analyzed using ANSYS HFSS.
 
 ## Reflection Coefficient
 ![S11](s11.png)
+
+## VSWR
+![VSWR](vswr.png)
