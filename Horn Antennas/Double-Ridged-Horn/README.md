@@ -8,3 +8,4 @@ Wideband double-ridged horn antenna designed and analyzed using ANSYS HFSS.
 **Antenna Type:** Double-Ridged Horn
 
 ## 3D Model
+![Geometry](2-18GHz_Horn_Geometry.png)
