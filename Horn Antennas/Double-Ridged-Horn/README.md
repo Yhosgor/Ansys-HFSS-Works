@@ -15,3 +15,8 @@ Wideband double-ridged horn antenna designed and analyzed using ANSYS HFSS.
 
 ## VSWR
 ![VSWR](vswr.png)
+
+## Realized Gain
+![Gain](gain.png)
+
+## Radiation Characteristics
