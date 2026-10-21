@@ -9,3 +9,6 @@ Wideband double-ridged horn antenna designed and analyzed using ANSYS HFSS.
 
 ## 3D Model
 ![Geometry](2-18GHz_Horn_Geometry.png)
+
+## Reflection Coefficient
+![S11](s11.png)
