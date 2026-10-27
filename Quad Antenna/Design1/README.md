@@ -17,18 +17,6 @@ The antenna performance was evaluated using VSWR, principal-plane radiation patt
 - **Main Performance Parameters:** VSWR, E-plane pattern, H-plane pattern and RHCP realized gain
 - **Radiation Pattern Evaluation Frequency:** 2.6 GHz
 
-## Design Description
-
-The antenna consists of a conductive quad-shaped radiating element placed above an aluminum ground structure.
-
-Two localized cuts are introduced into the radiating element in order to perturb the surface-current distribution. These cuts create two orthogonal resonant field components with an appropriate phase difference, enabling right-hand circular polarization.
-
-The radiating element is modeled using copper, while the ground structure is modeled using aluminum.
-
-The antenna is excited through an RG402 semi-rigid coaxial feed. The coaxial feeding structure provides a practical transition between the RF source and the radiating element while maintaining a compact mechanical configuration.
-
-The electromagnetic model was developed in ANSYS HFSS and evaluated around 2.6 GHz. Radiation characteristics were examined in both the E-plane and H-plane, while the three-dimensional RHCP realized gain pattern was used to visualize the circularly polarized radiation behavior of the antenna.
-
 ## Materials and Feeding
 
 - **Radiating Element:** Copper
