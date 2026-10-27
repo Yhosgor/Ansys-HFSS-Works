@@ -35,8 +35,6 @@ Radiation patterns were examined at 2 GHz, 3 GHz and 4 GHz in order to evaluate 
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
 
-> Note: Exact mechanical dimensions, material properties and detailed design parameters are intentionally omitted from the public portfolio.
-
 ## 3D Model
 
 ![Geometry](geometry.png)
