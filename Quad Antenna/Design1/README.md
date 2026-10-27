@@ -14,7 +14,7 @@ The antenna performance was evaluated using VSWR, principal-plane radiation patt
 - **Antenna Type:** Quad Antenna
 - **Polarization:** Right-Hand Circular Polarization (RHCP)
 - **Target Frequency:** 2.6 GHz
-- **Main Performance Parameters:** VSWR, E-plane pattern, H-plane pattern and RHCP realized gain
+- **Main Performance Parameters:** S11, VSWR, E-plane pattern, H-plane pattern and RHCP realized gain
 - **Radiation Pattern Evaluation Frequency:** 2.6 GHz
 
 ## Materials and Feeding
