@@ -20,8 +20,7 @@ The design was evaluated in terms of input matching, VSWR, realized gain, two-di
 
 ## Design Description
 
-The antenna consists of a symmetric flared conductive structure forming the radiating element.  
-Designed antenna geometry increases the effective current path and contributes to broadband impedance behavior compared with a conventional narrow dipole structure.
+The antenna consists of a symmetric flared conductive structure forming the radiating element.It contributes to broadband impedance behavior compared with a conventional narrow dipole structure.
 
 The electromagnetic model was created in ANSYS HFSS and optimized by evaluating the antenna reflection coefficient, voltage standing wave ratio, realized gain and far-field radiation characteristics.
 
