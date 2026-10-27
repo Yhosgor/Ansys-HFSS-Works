@@ -14,10 +14,6 @@ The antenna performance was evaluated using VSWR, principal-plane radiation patt
 - **Antenna Type:** Quad Antenna
 - **Polarization:** Right-Hand Circular Polarization (RHCP)
 - **Target Frequency:** 2.6 GHz
-- **Radiating Element Material:** Copper
-- **Ground Material:** Aluminum
-- **Feed Type:** Semi-rigid coaxial cable
-- **Coaxial Cable:** RG402
 - **Main Performance Parameters:** VSWR, E-plane pattern, H-plane pattern and RHCP realized gain
 - **Radiation Pattern Evaluation Frequency:** 2.6 GHz
 
@@ -38,7 +34,6 @@ The electromagnetic model was developed in ANSYS HFSS and evaluated around 2.6 G
 - **Radiating Element:** Copper
 - **Ground Plane:** Aluminum
 - **Feed Cable:** RG402 semi-rigid coaxial cable
-- **Excitation:** Coaxial feed
 - **Surrounding Medium:** Air / free-space simulation region
 
 ## Circular Polarization Mechanism
