@@ -24,14 +24,6 @@ The antenna performance was evaluated using VSWR, principal-plane radiation patt
 - **Feed Cable:** RG402 semi-rigid coaxial cable
 - **Surrounding Medium:** Air / free-space simulation region
 
-## Circular Polarization Mechanism
-
-The two cuts introduced into the antenna geometry act as perturbations on the radiating structure.
-
-These perturbations modify the effective current path and produce two orthogonal electromagnetic field components. When the amplitudes of these components are sufficiently similar and their phase difference approaches 90°, circular polarization is obtained.
-
-The orientation and placement of the cuts are selected to generate right-hand circular polarization (RHCP).
-
 ## 3D Model
 
 ![Geometry](geometry.png)
