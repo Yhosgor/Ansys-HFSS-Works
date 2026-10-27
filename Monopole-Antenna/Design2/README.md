@@ -34,8 +34,6 @@ Both elevation- and azimuth-plane radiation patterns were analyzed at 3.4 GHz in
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
 
-> Note: Exact mechanical dimensions, material properties and detailed design parameters are intentionally omitted from the public portfolio.
-
 ## 3D Model
 
 <p align="center">
