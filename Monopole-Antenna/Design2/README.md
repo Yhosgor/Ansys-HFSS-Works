@@ -4,7 +4,7 @@
 
 This design presents a compact monopole antenna developed and analyzed using ANSYS HFSS.
 
-The antenna employs a planar radiating structure positioned above a conductive ground plane. The geometry was developed to provide suitable impedance matching and stable radiation characteristics around the target operating frequency.
+The antenna employs a planar radiating structure. The geometry was developed to provide suitable impedance matching and stable radiation characteristics around the target operating frequency.
 
 The electromagnetic performance of the antenna was evaluated through reflection coefficient, VSWR, realized gain, two-dimensional radiation patterns and three-dimensional far-field radiation characteristics.
 
@@ -14,16 +14,12 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 - **Antenna Type:** Planar Monopole Antenna
 - **Target Frequency:** 3.4 GHz
 - **Polarization:** Linear
-- **Radiation Characteristic:** Broad monopole-type radiation coverage
+- **Radiation Characteristic:** Omni-directional
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
 - **Radiation Pattern Evaluation Frequency:** 3.4 GHz
 - **Analyzed Planes:** Elevation and Azimuth
 
 ## Design Description
-
-The antenna consists of a vertically oriented planar conductive radiator placed above a finite ground structure.
-
-The radiating geometry provides an extended surface-current path compared with a conventional wire monopole, allowing the antenna impedance and radiation characteristics to be controlled through the shape and dimensions of the radiator.
 
 The antenna model was developed in ANSYS HFSS and its electromagnetic performance was evaluated around the target operating frequency.
 
@@ -31,8 +27,10 @@ Both elevation- and azimuth-plane radiation patterns were analyzed at 3.4 GHz in
 
 ## Materials
 
-- **Radiating Element:** Conductive metallic structure
-- **Ground Structure:** Conductive ground plane
+- **Radiating Element:** Copper
+- **Ground Structure:** Copper
+- **Substrate Material:** Rogers Kappa 438
+- **Substrate Thickness:** 0.762 mm
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
 
