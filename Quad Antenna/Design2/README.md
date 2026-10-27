@@ -48,15 +48,13 @@ The radiating structure is formed using copper wire and is excited through an RG
 
 ## Radiation Patterns at 2.4 GHz
 
-<p align="center">
-  <img src="2,4GHz_Elevation.png" width="48%">
-  <img src="2,4GHz_Azimuth.png" width="48%">
-</p>
+### Elevation Pattern
 
-<p align="center">
-  <b>Elevation Pattern</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Azimuth Pattern</b>
-</p>
+![2.4 GHz Elevation](2,4GHz_Elevation.png)
+
+### Azimuth Pattern
+
+![2.4 GHz Azimuth](2,4GHz_Azimuth.png)
 
 ## 3D Realized Gain Pattern
 
