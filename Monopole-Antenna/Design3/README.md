@@ -23,7 +23,7 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 
 The antenna consists of a planar conductive radiator positioned above a conductive ground structure.
 
-The geometry of the radiating element determines the effective current path and therefore influences both the impedance response and the radiation characteristics of the antenna.
+The geometry of the ground structure influences both the impedance response and the radiation characteristics of the antenna.
 
 The model was developed in ANSYS HFSS and evaluated around the target operating frequency. The design performance was analyzed using input matching, VSWR and realized gain results.
 
