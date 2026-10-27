@@ -30,8 +30,8 @@ Radiation patterns were examined at 2 GHz, 3 GHz and 4 GHz in order to evaluate 
 
 ## Materials
 
-- **Radiating Element:** Conductive metallic structure
-- **Ground Structure:** Conductive ground plane
+- **Radiating Element:** Copper
+- **Ground Structure:** Aluminum
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
 
