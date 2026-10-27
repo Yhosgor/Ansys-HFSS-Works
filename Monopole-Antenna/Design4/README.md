@@ -19,14 +19,6 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 - **Radiation Pattern Evaluation Frequency:** 2.6 GHz
 - **Analyzed Planes:** Elevation and Azimuth
 
-## Design Description
-
-The antenna consists of a planar metallic radiating element positioned above a conductive ground structure.
-
-The antenna model was developed in ANSYS HFSS and its impedance characteristics were evaluated using reflection coefficient and VSWR results.
-
-The radiation performance was investigated at 2.6 GHz using elevation- and azimuth-plane far-field patterns. A three-dimensional radiation pattern was also generated to visualize the overall spatial radiation behavior of the antenna.
-
 ## Materials
 
 - **Radiating Element:** Copper
