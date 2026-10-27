@@ -18,16 +18,6 @@ The design was evaluated in terms of input matching, VSWR, realized gain and far
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
 - **Radiation Pattern Evaluation Frequencies:** 2 GHz, 3 GHz and 4 GHz
 
-## Design Description
-
-The antenna consists of a vertically oriented blade-shaped radiating element positioned above a conductive ground structure.
-
-The blade geometry provides a larger effective radiating surface compared with a conventional thin-wire monopole and can support broadband operation by distributing the surface current over a wider region of the radiator.
-
-The antenna geometry and feeding configuration were modeled in ANSYS HFSS. The electromagnetic performance was analyzed by evaluating the reflection coefficient, VSWR, realized gain and elevation-plane radiation patterns over the operating frequency range.
-
-Radiation patterns were examined at 2 GHz, 3 GHz and 4 GHz in order to evaluate the stability of the antenna radiation characteristics across the band.
-
 ## Materials
 
 - **Radiating Element:** Copper
