@@ -28,11 +28,10 @@ The radiation performance was examined at several frequencies across the operati
 
 ## Materials
 
-- **Radiating Element:** Conductive metallic structure
+- **Radiating Element:** Copper
 - **Surrounding Medium:** Air / free-space simulation region
-- **Ground / Supporting Structure:** Included according to the simulated antenna configuration
+- **Ground / Supporting Structure:** Aluminum / ABS
 
-> Note: Exact material properties and mechanical dimensions are intentionally omitted from the public portfolio.
 
 ## 3D Model
 
