@@ -1,4 +1,4 @@
-# Monopole Antenna - Design 4
+# Whip Antenna - Design 4
 
 ## 3D Model
 
