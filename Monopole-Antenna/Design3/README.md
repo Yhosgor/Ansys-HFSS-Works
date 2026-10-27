@@ -14,7 +14,7 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 - **Antenna Type:** Planar Monopole Antenna
 - **Target Frequency:** 2.5 GHz
 - **Polarization:** Linear
-- **Radiation Characteristic:** Broad monopole-type radiation coverage
+- **Radiation Characteristic:** Omni-directional
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
 - **Radiation Pattern Evaluation Frequency:** 2.5 GHz
 - **Analyzed Planes:** Elevation and Azimuth
@@ -31,12 +31,10 @@ Far-field characteristics were evaluated at 2.5 GHz using both elevation- and az
 
 ## Materials
 
-- **Radiating Element:** Conductive metallic structure
-- **Ground Structure:** Conductive ground plane
+- **Radiating Element:** Copper
+- **Ground Structure:** Aluminum
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
-
-> Note: Exact mechanical dimensions, material properties and detailed design parameters are intentionally omitted from the public portfolio.
 
 ## 3D Model
 
