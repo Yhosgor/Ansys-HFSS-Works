@@ -14,7 +14,7 @@ The design was evaluated in terms of input matching, VSWR, realized gain and far
 - **Antenna Type:** Blade / Monopole Antenna
 - **Operating Frequency Range:** Approximately 2–4 GHz
 - **Polarization:** Linear
-- **Radiation Characteristic:** Broad radiation coverage
+- **Radiation Characteristic:** Omni-directional
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
 - **Radiation Pattern Evaluation Frequencies:** 2 GHz, 3 GHz and 4 GHz
 
