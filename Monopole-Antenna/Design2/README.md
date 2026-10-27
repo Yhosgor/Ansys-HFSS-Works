@@ -19,12 +19,6 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 - **Radiation Pattern Evaluation Frequency:** 3.4 GHz
 - **Analyzed Planes:** Elevation and Azimuth
 
-## Design Description
-
-The antenna model was developed in ANSYS HFSS and its electromagnetic performance was evaluated around the target operating frequency.
-
-Both elevation- and azimuth-plane radiation patterns were analyzed at 3.4 GHz in order to investigate the directional characteristics of the antenna. A three-dimensional far-field radiation pattern was also evaluated to provide a complete representation of the antenna radiation behavior.
-
 ## Materials
 
 - **Radiating Element:** Copper
