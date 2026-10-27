@@ -37,11 +37,9 @@ The antenna has a ground-plane size of 50 mm × 110 mm and an overall height of 
 <tr>
 <td align="center">
   <img src="geometry1.png" width="100%"><br>
-  <b>3D Geometry</b>
 </td>
 <td align="center">
   <img src="geometry2.png" width="100%"><br>
-  <b>Radiating Structure</b>
 </td>
 </tr>
 </table>
