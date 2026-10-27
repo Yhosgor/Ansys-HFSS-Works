@@ -1,7 +1,5 @@
 # Batwing Antenna - Design 1
 
-# Batwing Antenna - Design 1
-
 ## Overview
 
 This design presents a broadband batwing antenna developed and analyzed using ANSYS HFSS.  
