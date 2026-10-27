@@ -1,4 +1,4 @@
-# RHCP Quad Antenna
+# RHCP Bi-Quad Antenna
 
 ## Overview
 
