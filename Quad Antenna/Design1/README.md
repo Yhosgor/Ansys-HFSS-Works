@@ -6,7 +6,7 @@ This design presents a quad antenna developed and analyzed using ANSYS HFSS for 
 
 Circular polarization is achieved through two intentional cuts introduced into the radiating structure. These perturbations modify the current distribution on the antenna and excite two orthogonal field components with the required phase relationship for RHCP operation.
 
-The antenna performance was evaluated using VSWR, principal-plane radiation patterns and three-dimensional realized gain results.
+The antenna performance was evaluated using S11, VSWR, principal-plane radiation patterns and three-dimensional realized gain results.
 
 ## Key Features
 
