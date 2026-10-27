@@ -19,16 +19,6 @@ The electromagnetic performance of the antenna was evaluated through reflection 
 - **Radiation Pattern Evaluation Frequency:** 2.5 GHz
 - **Analyzed Planes:** Elevation and Azimuth
 
-## Design Description
-
-The antenna consists of a planar conductive radiator positioned above a conductive ground structure.
-
-The geometry of the ground structure influences both the impedance response and the radiation characteristics of the antenna.
-
-The model was developed in ANSYS HFSS and evaluated around the target operating frequency. The design performance was analyzed using input matching, VSWR and realized gain results.
-
-Far-field characteristics were evaluated at 2.5 GHz using both elevation- and azimuth-plane radiation patterns. A three-dimensional far-field radiation pattern was also generated in order to visualize the overall radiation behavior of the antenna.
-
 ## Materials
 
 - **Radiating Element:** Copper
