@@ -14,13 +14,12 @@ The radiating structure is formed using copper wire and is excited through an RG
 - **Antenna Type:** Dual Bi-Quad Antenna
 - **Target Frequency:** 2.4 GHz
 - **Polarization:** Linear
-- **Radiation Characteristic:** Omnidirectional
+- **Radiation Characteristic:** Omni-directional
 - **Feed Type:** Coaxial Feed
 - **Coaxial Cable:** RG402 Semi-Rigid
 - **Radiating Element:** Copper Wire
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
 - **Radiation Pattern Evaluation Frequency:** 2.4 GHz
-- **Analyzed Planes:** Elevation and Azimuth
 
 ## Materials
 
