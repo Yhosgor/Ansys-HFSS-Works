@@ -28,6 +28,10 @@ The antenna performance was evaluated using VSWR, principal-plane radiation patt
 
 ![Geometry](geometry.png)
 
+## Reflection Coefficient
+
+![S11](S11.png)
+
 ## VSWR
 
 ![VSWR](VSWR.png)
