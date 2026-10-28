@@ -61,45 +61,44 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 
 ### 1 GHz
 
-<table>
-<tr>
-<td align="center">
-  <img src="1GHz_E-Plane.png" width="100%">
-</td>
-<td align="center">
-  <img src="1GHz_H-Plane.png" width="100%">
-</td>
-</tr>
-</table>
+#### E-Plane
 
-![1 GHz 3D Radiation Pattern](1GHz_3D Plot.png)
+<img src="1GHz_E-Plane.png" width="100%">
+
+#### H-Plane
+
+<img src="1GHz_H-Plane.png" width="100%">
+
+#### 3D Radiation Pattern
+
+<img src="1GHz_3D Plot.png" width="100%">
+
 
 ### 2 GHz
 
-<table>
-<tr>
-<td align="center">
-  <img src="2GHz_E-Plane.png" width="100%">
-</td>
-<td align="center">
-  <img src="2GHz_H-Plane.png" width="100%">
-</td>
-</tr>
-</table>
+#### E-Plane
 
-![2 GHz 3D Radiation Pattern](2GHz_3D Plot.png)
+<img src="2GHz_E-Plane.png" width="100%">
+
+#### H-Plane
+
+<img src="2GHz_H-Plane.png" width="100%">
+
+#### 3D Radiation Pattern
+
+<img src="2GHz_3D Plot.png" width="100%">
+
 
 ### 3 GHz
 
-<table>
-<tr>
-<td align="center">
-  <img src="3GHz_E-Plane.png" width="100%">
-</td>
-<td align="center">
-  <img src="3GHz_H-Plane.png" width="100%">
-</td>
-</tr>
-</table>
+#### E-Plane
 
-![3 GHz 3D Radiation Pattern](3GHz_3D Plot.png)
+<img src="3GHz_E-Plane.png" width="100%">
+
+#### H-Plane
+
+<img src="3GHz_H-Plane.png" width="100%">
+
+#### 3D Radiation Pattern
+
+<img src="3GHz_3D Plot.png" width="100%">
