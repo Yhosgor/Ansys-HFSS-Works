@@ -55,7 +55,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 
 ## Realized Gain
 
-![Realized Gain](Realized Gain.png)
+<img src="Realized Gain.png" width="100%">
 
 ## Radiation Patterns
 
