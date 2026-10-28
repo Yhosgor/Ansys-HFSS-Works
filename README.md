@@ -1,1 +1,1 @@
-Selected antenna designs and electromagnetic simulation results developed using ANSYS HFSS.
+This repository contains antenna designs developed and analyzed using Ansys HFSS.
