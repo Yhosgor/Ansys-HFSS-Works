@@ -16,7 +16,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 - **Antenna Type:** Cavity-Backed Spiral Antenna
 - **Operating Frequency Range:** 0.7–6 GHz
 - **Polarization:** Circular Polarization
-- **Radiation Characteristic:** Unidirectional
+- **Radiation Characteristic:** Uni-directional
 - **Feeding Structure:** Exponentially Tapered Balun
 - **Main Performance Parameters:** S11, VSWR, realized gain, axial ratio and XPD
 - **Radiation Pattern Evaluation Frequencies:** 1, 2, 3, 4, 5 and 6 GHz
