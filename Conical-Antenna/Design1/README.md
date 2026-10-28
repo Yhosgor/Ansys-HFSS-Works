@@ -4,7 +4,7 @@
 
 This design presents an ultra-wideband Discone antenna developed and analyzed using ANSYS HFSS for operation from approximately 0.8 GHz to 15 GHz.
 
-The antenna is a fully metallic structure manufactured entirely from copper and consists of the characteristic disc-and-cone geometry of a conventional Discone antenna. This configuration provides very wide impedance bandwidth and omnidirectional radiation characteristics over a broad frequency range.
+The antenna is a fully metallic structure from copper and consists of the characteristic disc-and-cone geometry of a conventional Discone antenna. This configuration provides very wide impedance bandwidth and omnidirectional radiation characteristics over a broad frequency range.
 
 Due to the 360° rotational symmetry of the antenna structure, only one-quarter of the complete antenna geometry was used in the electromagnetic simulation. Appropriate symmetry boundary conditions were applied to the cut planes in order to reproduce the electromagnetic behavior of the full antenna.
 
@@ -19,7 +19,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 - **Operating Frequency Range:** 0.8–15 GHz
 - **Bandwidth Characteristic:** Ultra-Wideband
 - **Polarization:** Linear
-- **Radiation Characteristic:** Omnidirectional
+- **Radiation Characteristic:** Omni-directional
 - **Structure Type:** Fully Metallic
 - **Simulation Model:** Quarter-Symmetry Model
 - **Symmetry Approach:** Appropriate electromagnetic boundary conditions applied to the symmetry planes
