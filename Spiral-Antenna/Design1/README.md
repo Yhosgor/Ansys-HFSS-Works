@@ -25,12 +25,8 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 ## Materials
 
 - **Spiral Antenna Substrate:** FR-4
-- **Spiral Substrate Thickness:** 1.6 mm
 - **Balun Substrate:** FR-4
-- **Balun Substrate Thickness:** 1 mm
 - **Absorber Material:** Eccosorb AN77
-- **Overall Antenna Diameter:** 130 mm
-- **Overall Antenna Height:** 67 mm
 - **Surrounding Medium:** Air / free-space simulation region
 - **Simulation Environment:** ANSYS HFSS
 
