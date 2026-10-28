@@ -17,6 +17,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 - **Operating Frequency Range:** 1–3 GHz
 - **Structure Type:** Asymmetric Conical Radiator
 - **Polarization:** Linear
+- **Radiation Characteristic:** Omni-directional
 - **Feed Type:** Coaxial Feed
 - **Coaxial Cable:** RG402 Semi-Rigid
 - **Main Performance Parameters:** S11, VSWR, realized gain and radiation patterns
