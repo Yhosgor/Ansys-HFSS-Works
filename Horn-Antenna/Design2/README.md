@@ -35,7 +35,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 
 ## 3D Model
 
-<img src="Ku Horn geometry.png" width="100%">
+<img src="Ku Horn geometry.png" width="50%">
 
 ## Reflection Coefficient
 
