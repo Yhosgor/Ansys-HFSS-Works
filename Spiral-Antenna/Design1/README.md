@@ -1,8 +1,8 @@
-# 0.7–6 GHz Cavity-Backed Spiral Antenna
+# 0.8–6 GHz Cavity-Backed Spiral Antenna
 
 ## Overview
 
-This design presents a wideband cavity-backed spiral antenna developed and analyzed using ANSYS HFSS for operation from 0.7 GHz to 6 GHz.
+This design presents a wideband cavity-backed spiral antenna developed and analyzed using ANSYS HFSS for operation from 0.8 GHz to 6 GHz.
 
 The antenna employs an exponentially tapered balun to support broadband impedance transformation and feeding. The spiral antenna and balun are implemented on an FR-4 substrate with a different thickness.
 
@@ -14,7 +14,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 
 - **Simulation Tool:** ANSYS HFSS
 - **Antenna Type:** Cavity-Backed Spiral Antenna
-- **Operating Frequency Range:** 0.7–6 GHz
+- **Operating Frequency Range:** 0.8–6 GHz
 - **Polarization:** Circular Polarization
 - **Radiation Characteristic:** Uni-directional
 - **Feeding Structure:** Exponentially Tapered Balun
