@@ -39,10 +39,10 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 <table>
 <tr>
 <td align="center">
-  <img src="Exponentially%20Tapered%20Balun%20geometry1.png" width="100%">
+  <img src="Exponentially Tapered Balun geometry1.png" width="100%">
 </td>
 <td align="center">
-  <img src="Exponentially%20Tapered%20Balun%20geometry2.png" width="100%">
+  <img src="Exponentially Tapered Balun geometry2.png" width="100%">
 </td>
 </tr>
 </table>
