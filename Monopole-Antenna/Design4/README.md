@@ -1,4 +1,4 @@
-# Whip Antenna - Design 4
+# S Band Whip Antenna
 
 ## Overview
 
