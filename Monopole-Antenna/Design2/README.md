@@ -1,4 +1,4 @@
-# Monopole Antenna - Design 2
+# Monopole Antenna
 
 ## Overview
 
