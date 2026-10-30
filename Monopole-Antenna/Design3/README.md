@@ -1,4 +1,4 @@
-# Monopole Antenna - Design 3
+# S Band Monopole Antenna
 
 ## Overview
 
