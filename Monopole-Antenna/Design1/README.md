@@ -1,4 +1,4 @@
-# Blade Antenna - Design 1
+# Blade Antenna
 
 ## Overview
 
