@@ -1,4 +1,4 @@
-# RHCP Bi-Quad Antenna
+# S Band Circulary Polarized (RHCP) Bi-Quad Antenna
 
 ## Overview
 
