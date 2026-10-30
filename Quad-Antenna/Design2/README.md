@@ -1,4 +1,4 @@
-# Dual Bi-Quad Antenna
+# S Band Dual Bi-Quad Antenna
 
 ## Overview
 
