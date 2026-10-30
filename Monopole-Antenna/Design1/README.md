@@ -1,4 +1,4 @@
-# Blade Antenna
+# S Band Blade Antenna
 
 ## Overview
 
